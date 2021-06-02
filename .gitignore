@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -15,3 +15,34 @@
 /packages/Newtonsoft.Json.12.0.3
 /XLGearModifier/XLGearModifier.csproj.user"XLGearModifier.blender\Skater Rigged for XLGM.blend" 
 "XLGearModifier.blender\Skater Rigged for XLGM.blend1" 
+XLGearModifier.Gear/Assets/Meshes/Shoes/Redgouf Re-Make/Adidas 3st 002 L.fbx
+XLGearModifier.Gear/Assets/Meshes/Shoes/Redgouf Re-Make/Adidas 3st 002 L.fbx.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/Redgouf Re-Make/Adidas 3st 002 R.fbx
+XLGearModifier.Gear/Assets/Meshes/Shoes/Redgouf Re-Make/Adidas 3st 002.mat.meta
+XLGearModifier.Gear/Assets/Prefabs/Shoes/Adidas 3st 002.prefab
+XLGearModifier.Gear/Assets/Prefabs/Shoes/Adidas 3st 002.prefab.meta
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_BLK.maskpbr.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_BLK.normal.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_BLK.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_BLKRED.maskpbr.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_BLKRED.normal.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_BLKRED.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_WHT.maskpbr.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_WHT.normal.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_WHT.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_WHT2.maskpbr.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_WHT2.normal.png
+XLGearModifier.Textures/Redgouf Shoes Re-Make/Adidas 3st 002/MShoesAdidas3st002_ADIDAS_3ST002_WHT2.png
+XLGearModifier.Gear/Assets/Meshes/Shoes/Redgouf Re-Make/Adidas 3st 002 R.fbx.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/Redgouf Re-Make/Adidas 3st 002.mat
+XLGearModifier.Gear/Assets/Meshes/Bottoms/Demz-SlimTuxPants.fbx.meta
+XLGearModifier.Gear/Assets/Prefabs/Bottoms/Demz-SlimTuxPants.prefab.meta
+XLGearModifier.Gear/Assets/Meshes/Bottoms/Extracted Mats/Demz-SlimTuxPants.mat.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/BoogieVans2CrockettL.fbx.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/BoogieVans2CrockettR.fbx.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/BoogieVansL.fbx.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/BoogieVansR.fbx.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/extracted mats/Boogie_Ripped_Vans_Model_3_u0_v0.mat.meta
+XLGearModifier.Gear/Assets/Meshes/Shoes/extracted mats/Boogie_Worn_Crockett_2_u0_v0.mat.meta
+XLGearModifier.Gear/Assets/Prefabs/Shoes/JBoogie Vans.prefab.meta
+XLGearModifier.Gear/Assets/Prefabs/Shoes/JBoogie Vans2 Crockett.prefab.meta
